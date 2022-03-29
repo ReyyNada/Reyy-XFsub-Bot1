@@ -1,14 +1,14 @@
 # ***FILE-SHARING***
 
 
-**NI KONTOL BUAT ELU TAPI CUMAN 2 BUTTON**
+**NI KONTOL BUAT ELU TAPI CUMAN 1 BUTTON**
 ### ***KALO KALIAN GAPAHAM***
 <p align="center"><a href="https://www.telegram.dog/pantekyks"> <img src="https://img.shields.io/badge/TEKAN%20INI%20KONTOL-Green?style=for-the-badge&logo=KONTOL" width="220" height="38.45"/></a></p>
 
 
 
 #### ***DEPLOY TO***
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ReyyNada/Reyy-XFsub-Bot2"> <img src="https://img.shields.io/badge/Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ReyyNada/Reyy-XFsub-Bot1"> <img src="https://img.shields.io/badge/Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=UmV5eU5hZGEvUmV5eS1YRnN1Yi1Cb3QyIG1haW4"> <img src="https://img.shields.io/badge/Bot%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
@@ -37,4 +37,3 @@
 * `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL1` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
-* `FORCE_SUB_CHANNEL2` Optional: ForceSub Channel ID, leave 0 if you want disable force sub

@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/ReyyNada/Reyy-XFsub-Bot2",
+  "repository": "https://github.com/ReyyNada/Reyy-XFsub-Bot1",
   "logo": "https://telegra.ph/file/15078bdadfbab27d4847b.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -30,10 +30,6 @@
       "value": "-100"
     },
     "FORCE_SUB_CHANNEL1":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
-    },
-    "FORCE_SUB_CHANNEL2":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "0"
     },
